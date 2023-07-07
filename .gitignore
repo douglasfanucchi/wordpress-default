@@ -1,0 +1,3 @@
+src/*
+!src/wp-content
+src/wp-content/uploads
